@@ -1,5 +1,5 @@
 package passgo
 
 func CreatePass() string {
-	return "pass go"
+	return "pass go created"
 }
