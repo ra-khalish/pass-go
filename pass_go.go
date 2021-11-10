@@ -1,5 +1,5 @@
 package passgo
 
-func CreatePass() string {
-	return "pass go created"
+func CreatePass(name string) string {
+	return "pass go created from" + name
 }
